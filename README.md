@@ -7,9 +7,9 @@
 - [x] Arrays  
 - [x] Strings  
 - [ ] Hashing  
-- [ ] Two Pointers  
-- [ ] Sliding Window  
-- [ ] Binary Search  
+- [x] Two Pointers  
+- [x] Sliding Window  
+- [x] Binary Search  
 - [ ] Linked List  
 - [ ] Stack  
 - [ ] Queue  
@@ -39,8 +39,7 @@
 
 ## Tools
 
-- *Languages:* Java, C++  
-- **Leetcode Profile: (https://leetcode.com/u/sahibzadahasanatahmad/)** 
+- *Languages:* Java, C++   
 - *Git:* GitHub version control for daily progress tracking
 
 ---
